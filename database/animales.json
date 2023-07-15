@@ -19,6 +19,11 @@
       "id": "4f2090",
       "nombre": "Gatito 3",
       "propietario": "Emilio"
+    },
+    {
+      "id": "9d9faf",
+      "nombre": "Lagartija",
+      "propietario": "Miguel"
     }
   ]
 }
