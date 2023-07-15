@@ -1,0 +1,24 @@
+{
+  "animales": [
+    {
+      "id": 2,
+      "nombre": "Perrito",
+      "propietario": "Juanito"
+    },
+    {
+      "id": "990bab",
+      "nombre": "Ratoncito",
+      "propietario": "Emilio"
+    },
+    {
+      "id": "03da43",
+      "nombre": "Gatito 2",
+      "propietario": "Emilio"
+    },
+    {
+      "id": "4f2090",
+      "nombre": "Gatito 3",
+      "propietario": "Emilio"
+    }
+  ]
+}
